@@ -1,0 +1,69 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.title{
+    color: 2px solid red;
+    font-size: 20px;
+    border: 10px solid rgb(41, 233, 185);
+    background-color:rgb(233, 245, 201);
+    padding: 34px;
+    display:flex;
+    align-items: center;
+    margin: 34px auto;
+    width: 666px;
+
+}
+.admission{
+    font-size: medium;
+}
+.h2{
+    color: blueviolet;
+    font-weight: 200;
+}
+.all{
+
+  background-size:cover;
+    font-size: medium;
+    align-items: center;
+    background-color: aquamarine;
+    width: 666px;
+    border: 10px solid rgb(41, 233, 185);
+    background-color:rgb(233, 245, 201);
+    padding: 34px;
+    margin: 34px auto;
+    color: blue;
+}
+.body{
+    background-image: url('mits.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+   
+}
+.btn {
+    background-color: lightgoldenrodyellow; 
+    font-size: 25px;
+    border: none;
+    align-items: center;
+    border: 7px;
+    cursor: pointer;
+  }
+  a:hover{
+    color: rgb(165, 116, 42);
+    background-color: blueviolet;
+  }
+  a:visited{
+    background-color: aqua;
+  }
+  a:active{
+    background-color: blanchedalmond;
+  }
+  a{
+    text-decoration: none;
+  }
+ .img{
+    backdrop-filter: blur;
+
+  }
+ 
